@@ -1,0 +1,9 @@
+# remove venv files
+.venv
+# remove any json files that might have location history
+*.json
+# remove output directory
+output/
+# remote python cache
+__pycache__/
+*.py[cod]
